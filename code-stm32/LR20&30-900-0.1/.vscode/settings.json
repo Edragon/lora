@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "stm32f1xx_hal.h": "c",
+        "driver_spi.h": "c",
+        "main.h": "c",
+        "driver_timer.h": "c",
+        "driver_usart.h": "c"
+    }
+}
